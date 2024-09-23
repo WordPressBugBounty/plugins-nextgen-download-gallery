@@ -1,0 +1,1 @@
+# plugins-nextgen-download-gallery
